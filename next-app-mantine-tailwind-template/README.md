@@ -18,7 +18,7 @@ More of these templates can be explored here: [mantine official website](https:/
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/anacicoare/HumbleSuperhero.git
 ```
 2. Install dependencies:
 ```
@@ -61,7 +61,8 @@ Fill out the form on the right-hand side with the superhero's:
 - Name
 - Superpower
 - Humility score (0-10)
-Click the Add Superhero button.
+
+Click the **Add Superhero** button.
 
 **Viewing heroes**
 

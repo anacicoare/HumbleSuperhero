@@ -11,7 +11,7 @@ Welcome to the Humble Superhero API, a simple and functional API that lets users
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/anacicoare/HumbleSuperhero.git
 ```
 2. Install dependencies:
 ```
