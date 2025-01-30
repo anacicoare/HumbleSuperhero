@@ -144,4 +144,4 @@ To work effectively as a team on the "If I Had More Time" tasks, I propose to fo
  ---
 
 
-Thank you for exploring the **Humble Superhero Project**! We appreciate your feedback and suggestions.
+Thank you for exploring the **Humble Superhero Project**!
