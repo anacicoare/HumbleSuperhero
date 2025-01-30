@@ -3,6 +3,10 @@
 
 This repository contains both the **backend** and **frontend** applications for managing superheroes. The project allows users to add new superheroes and view a dynamic roster, showcasing full-stack development with **NestJS**, **Next.js**, **Mantine**, **Tailwind CSS**, and **Framer Motion**.
 
+## Starting page:
+
+![starting_page](screenshots/startpage.png)
+
 ---
 
 ## **Project Structure**
