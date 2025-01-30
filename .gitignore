@@ -1,2 +1,12 @@
+
+# Save space by not pushing node_modules to git
 humble-superhero-api/node_modules
 next-app-mantine-tailwind-template/node_modules
+
+# Save space by not pushing .next to git
+next-app-mantine-tailwind-template/.next
+
+# Ignore vscode cache
+.vscode
+humble-superhero-api/.vscode
+next-app-mantine-tailwind-template/.vscode
